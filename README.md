@@ -1,10 +1,10 @@
-**Framingham Heart Disease Dataset**
+## Framingham Heart Disease prediction model
 
-**Introduction**
+## Overview
 
 The Framingham Heart Disease Dataset is a longitudinal study of cardiovascular disease risk factors in over 15,000 participants from the town of Framingham, Massachusetts. The study began in 1948 and is still ongoing. The dataset contains a wealth of information on participants' demographics, medical history, lifestyle factors, and cardiovascular health.
 
-**Dataset Description**
+## Dataset Description
 
 The Framingham Heart Disease Dataset is a CSV file containing over 4,200 records and 15 attributes. The following is a description of each attribute:
 
@@ -27,11 +27,11 @@ Lifestyle Factors:
 physicalActivity: Level of physical activity of the patient (Ordinal)
 alcoholIntake: Alcohol intake of the patient (Ordinal)
 
-**Classification Goal**
+## Classification Goal
 
 The classification goal of the Framingham Heart Disease Dataset is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The target variable is TenYearCHD, which is a binary variable indicating whether the patient developed CHD within 10 years of the baseline visit.
 
-***Usage***
+## Usage
 
 The Framingham Heart Disease Dataset can be used for a variety of tasks, such as:
 
